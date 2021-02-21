@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Isaac D. Mehlhaff"
   avatar           : "UNC_photo.jpg"
-  bio              : "PhD Student, Department of Political Science, The University of North Carolina at Chapel Hill"
+  bio              : "PhD Student<br/> Department of Political Science<br/> The University of North Carolina at Chapel Hill"
   location         : "Chapel Hill, NC"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
