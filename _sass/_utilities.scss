@@ -170,7 +170,7 @@ body:hover .visually-hidden button {
 
 .icon {
   display: inline-block;
-  fill: #4b9cd3; /* currentColor; */
+  fill: currentColor;
   width: 1em;
   height: 1.1em;
   line-height: 1;
@@ -284,6 +284,11 @@ body:hover .visually-hidden button {
   }
 }
 
+.ai-orcid,
+   .ai-orcid-square {
+     color: $orcid-color;
+   }
+ }
 
 /*
    Navicons
