@@ -283,9 +283,14 @@ body:hover .visually-hidden button {
     color: $xing-color;
   }
 
-.ai-orcid,
-   .ai-orcid-square {
+  .ai-orcid,
+  .ai-orcid-square {
      color: $orcid-color;
+    }
+   
+  .ai-google-scholar,
+  .ai-google-scholar-square {
+    color: $google-scholar-color;
    }
  }
 
