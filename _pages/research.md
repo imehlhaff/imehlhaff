@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-**Isaac D. Mehlhaff**. "A Group-Based Approach To Measuring Polarization." Under Review. [[Working Paper]](https://imehlhaff.net/files/CPC_note.pdf) [[Poster]](https://imehlhaff.net/files/Poster_compressed_1.pdf) [[Supplementary Materials]](https://imehlhaff.net/files/CPC%20Supplement.pdf) [[Data and Code]](https://github.com/imehlhaff/CPC_paper) [[R Package]](https://github.com/imehlhaff/CPC)
+**Isaac D. Mehlhaff**. "A Group-Based Approach To Measuring Polarization." Under Review. [[Working Paper]](https://imehlhaff.net/files/CPC_note.pdf) [[Poster]](https://imehlhaff.net/files/Poster_compressed_1.pdf) [[Supplementary Materials]](https://imehlhaff.net/files/CPC%20Supplement.pdf) [[R Package]](https://github.com/imehlhaff/CPC)
 
 > Political and social polarization are key concerns in many important social scientific topics, with a rapidly expanding literature emphasizing two features: intergroup heterogeneity and intragroup homogeneity. The quantitative measurement of polarization, however, has not evolved alongside this refined conceptual understanding, as existing measures capture only one feature or complicate comparison over time and space. To bring the concept and mea- surement of polarization into closer alignment, I introduce the cluster-polarization coefficient (CPC), a measure of multimodality that allows scholars to incorporate numerous variables and compare across contexts with varying numbers of parties or social groups. Applying the CPC to two data sets of elite ideological ideal points demonstrates that different measures can lead to different substantive results. An open-source software package implements the measure.
 > 
