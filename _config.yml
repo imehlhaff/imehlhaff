@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ZHUcmDgAAAAJ&hl=en&oi=ao"
-  email            : "mehlhaff@live.unc.edu"
+  email            : "mailto:mehlhaff@live.unc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
