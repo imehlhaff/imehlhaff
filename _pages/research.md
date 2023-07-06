@@ -50,7 +50,7 @@ Robert C. Luskin, Daron R. Shaw, Marc J. Hetherington, and **Isaac D. Mehlhaff**
 > 
 </details>
 
-Amirhossein Farzam, Shashank Shekhar, **Isaac Mehlhaff**, and Marco Morucci. "Political Discussion at Scale: Argument Mining with Deep Learning." Working Paper. Under Review. [[Pre-Print]]([https://imehlhaff.net/files/Argument%20Mining.pdf](https://arxiv.org/abs/2307.01401)) [[Poster]](https://imehlhaff.net/files/Argument%20Mining%20Poster.pdf)
+Amirhossein Farzam, Shashank Shekhar, **Isaac Mehlhaff**, and Marco Morucci. "Political Discussion at Scale: Argument Mining with Deep Learning." Under Review. [[Pre-Print]](https://arxiv.org/abs/2307.01401) [[Poster]](https://imehlhaff.net/files/Argument%20Mining%20Poster.pdf)
 
 <details>
   <summary>Abstract</summary>
