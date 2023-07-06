@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-**Isaac D. Mehlhaff**, Timothy J. Ryan, Marc Hetherington, and Michael MacKuen. "Where Motivated Reasoning Withers and Looms Large: Fear and Partisan Reactions to the Covid-19 Pandemic." *American Journal of Political Science* (forthcoming). [[Pre-Print]](https://imehlhaff.net/files/Fear.pdf) [[Supplementary Information]](https://imehlhaff.net/files/Fear%20Supplement.pdf) [[Monkey Cage]](https://www.washingtonpost.com/politics/2020/08/18/american-attitudes-toward-covid-19-are-divided-by-party-pandemic-itself-might-undo-that/)
-
+**Isaac D. Mehlhaff**, Timothy J. Ryan, Marc Hetherington, and Michael MacKuen. "Where Motivated Reasoning Withers and Looms Large: Fear and Partisan Reactions to the Covid-19 Pandemic." *American Journal of Political Science* (forthcoming). 
+[[Pre-Print]](https://imehlhaff.net/files/Fear.pdf) [[Supplementary Information]](https://imehlhaff.net/files/Fear%20Supplement.pdf) [[Monkey Cage]](https://www.washingtonpost.com/politics/2020/08/18/american-attitudes-toward-covid-19-are-divided-by-party-pandemic-itself-might-undo-that/)
 <details>
   <summary>Abstract</summary>
 
@@ -14,8 +14,8 @@ author_profile: true
 > 
 </details>
 
-Samuel Schmitt, **Isaac D. Mehlhaff**, and Emily Cottle Ommundsen. "Integrating Classroom and Community with Undergraduate Civically Engaged Research." *PS: Political Science and Politics* (forthcoming). [[Article]](https://doi.org/10.1017/S1049096523000392)
-
+Samuel Schmitt, **Isaac D. Mehlhaff**, and Emily Cottle Ommundsen. "Integrating Classroom and Community with Undergraduate Civically Engaged Research." *PS: Political Science and Politics* (forthcoming). 
+[[Article]](https://doi.org/10.1017/S1049096523000392)
 <details>
   <summary>Abstract</summary>
 
@@ -23,8 +23,8 @@ Samuel Schmitt, **Isaac D. Mehlhaff**, and Emily Cottle Ommundsen. "Integrating 
 > 
 </details>
 
-**Isaac D. Mehlhaff**. "A Group-Based Approach To Measuring Polarization." Revise and Resubmit, *American Political Science Review*. [[Working Paper]](https://imehlhaff.net/files/CPC_note.pdf) [[Supplementary Information]](https://imehlhaff.net/files/Supplement.pdf) [[Poster]](https://imehlhaff.net/files/Poster_compressed_1.pdf) [[R Package]](http://imehlhaff.net/CPC/)
-
+**Isaac D. Mehlhaff**. "A Group-Based Approach To Measuring Polarization." Revise and Resubmit, *American Political Science Review*. 
+[[Working Paper]](https://imehlhaff.net/files/CPC_note.pdf) [[Supplementary Information]](https://imehlhaff.net/files/Supplement.pdf) [[Poster]](https://imehlhaff.net/files/Poster_compressed_1.pdf) [[R Package]](http://imehlhaff.net/CPC/)
 <details>
   <summary>Abstract</summary>
 
@@ -33,7 +33,6 @@ Samuel Schmitt, **Isaac D. Mehlhaff**, and Emily Cottle Ommundsen. "Integrating 
 </details>
 
 Marc J. Hetherington, **Isaac D. Mehlhaff**, and Caroline Marie Lancaster. "Worldview Politics in the United States and Great Britain." Under Review. (Paper available upon request.)
-
 <details>
   <summary>Abstract</summary>
 
@@ -42,7 +41,6 @@ Marc J. Hetherington, **Isaac D. Mehlhaff**, and Caroline Marie Lancaster. "Worl
 </details>
 
 Robert C. Luskin, Daron R. Shaw, Marc J. Hetherington, and **Isaac D. Mehlhaff**. "Signed Forecast Errors in Pre-Election Media Polls: A Mainly Political Story." Under Review. (Paper available upon request.)
-
 <details>
   <summary>Abstract</summary>
 
@@ -50,8 +48,8 @@ Robert C. Luskin, Daron R. Shaw, Marc J. Hetherington, and **Isaac D. Mehlhaff**
 > 
 </details>
 
-Amirhossein Farzam, Shashank Shekhar, **Isaac Mehlhaff**, and Marco Morucci. "Political Discussion at Scale: Argument Mining with Deep Learning." Under Review. [[Pre-Print]](https://arxiv.org/abs/2307.01401) [[Poster]](https://imehlhaff.net/files/Argument%20Mining%20Poster.pdf)
-
+Amirhossein Farzam, Shashank Shekhar, **Isaac Mehlhaff**, and Marco Morucci. "Political Discussion at Scale: Argument Mining with Deep Learning." Under Review. 
+[[Pre-Print]](https://arxiv.org/abs/2307.01401) [[Poster]](https://imehlhaff.net/files/Argument%20Mining%20Poster.pdf)
 <details>
   <summary>Abstract</summary>
 
@@ -59,8 +57,8 @@ Amirhossein Farzam, Shashank Shekhar, **Isaac Mehlhaff**, and Marco Morucci. "Po
 > 
 </details>
 
-**Isaac D. Mehlhaff**. "Political Argumentation and Attitude Change in Online Interactions." Working Paper. [[Working Paper]](https://imehlhaff.net/files/Reddit.pdf) [[Supplementary Information]](https://imehlhaff.net/files/Reddit%20Supplement.pdf)
-
+**Isaac D. Mehlhaff**. "Political Argumentation and Attitude Change in Online Interactions." Working Paper. 
+[[Working Paper]](https://imehlhaff.net/files/Reddit.pdf) [[Supplementary Information]](https://imehlhaff.net/files/Reddit%20Supplement.pdf)
 <details>
   <summary>Abstract</summary>
 
@@ -68,8 +66,8 @@ Amirhossein Farzam, Shashank Shekhar, **Isaac Mehlhaff**, and Marco Morucci. "Po
 > 
 </details>
 
-**Isaac D. Mehlhaff**. "Mass Polarization and Democratic Decline: Global Evidence from a Half-Century of Public Opinion." Working Paper. [[Working Paper]](https://imehlhaff.net/files/Polarization%20and%20Democracy.pdf) [[Supplementary Information]](https://imehlhaff.net/files/Democracy%20Supplement.pdf)
-
+**Isaac D. Mehlhaff**. "Mass Polarization and Democratic Decline: Global Evidence from a Half-Century of Public Opinion." Working Paper. 
+[[Working Paper]](https://imehlhaff.net/files/Polarization%20and%20Democracy.pdf) [[Supplementary Information]](https://imehlhaff.net/files/Democracy%20Supplement.pdf)
 <details>
   <summary>Abstract</summary>
 
@@ -77,4 +75,5 @@ Amirhossein Farzam, Shashank Shekhar, **Isaac Mehlhaff**, and Marco Morucci. "Po
 > 
 </details>
 
-**Isaac D. Mehlhaff**. "Subverting Solidarity: The Role of American Organized Labor in Pursuing United States Foreign Policy Objectives in Chile, 1961-1973." *The Burkhardt Review* 1, no. 2 (2018), 24-40. [[Article]](https://imehlhaff.net/files/Subverting%20Solidarity.pdf)
+**Isaac D. Mehlhaff**. "Subverting Solidarity: The Role of American Organized Labor in Pursuing United States Foreign Policy Objectives in Chile, 1961-1973." *The Burkhardt Review* 1, no. 2 (2018), 24-40. 
+[[Article]](https://imehlhaff.net/files/Subverting%20Solidarity.pdf)
