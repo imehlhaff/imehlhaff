@@ -12,6 +12,7 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  width: 400px;
 
   @include breakpoint($large) {
     @include span(2 of 12);
@@ -95,7 +96,6 @@
 
 .author__content {
   display: table-cell;
-  width: 400px;
   vertical-align: top;
   padding-left: 15px;
   padding-right: 25px;
