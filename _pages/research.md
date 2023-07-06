@@ -7,11 +7,8 @@ author_profile: true
 
 **Isaac D. Mehlhaff**, Timothy J. Ryan, Marc Hetherington, and Michael MacKuen. "Where Motivated Reasoning Withers and Looms Large: Fear and Partisan Reactions to the Covid-19 Pandemic." *American Journal of Political Science* (forthcoming). \
 [[Pre-Print]](https://imehlhaff.net/files/Fear.pdf) [[Supplementary Information]](https://imehlhaff.net/files/Fear%20Supplement.pdf) [[Monkey Cage]](https://www.washingtonpost.com/politics/2020/08/18/american-attitudes-toward-covid-19-are-divided-by-party-pandemic-itself-might-undo-that/)
-<details>
-  <summary markdown="span">Abstract</summary>
-
+<details><summary markdown="span">Abstract</summary>
 > Contemporary American politics has been largely characterized by hyper-partisanship and polarization, with partisan motivated reasoning a thematic concern. Theories of emotions in politics suggest that anxiety might interrupt partisan heuristics and encourage citizens to reason more evenhandedly—but in what domains and to what extent? We use original panel data to assess how anxiety about becoming seriously ill from Covid-19 interacted with partisan attachments to shape political judgment during the Covid-19 pandemic. The structure of our data allows us to assess large-scale implications of politically relevant emotions in ways that so far have not been possible. We find large effects on policy attitudes: Republicans who were afraid of getting sick rejected signals from co-partisan leaders by supporting mask mandates and the like. Effects on vote choice were muted in comparison, but, in a race as close as the 2020 presidential election, were potentially large enough to have been pivotal.
-
 </details>
 
 Samuel Schmitt, **Isaac D. Mehlhaff**, and Emily Cottle Ommundsen. "Integrating Classroom and Community with Undergraduate Civically Engaged Research." *PS: Political Science and Politics* (forthcoming). \
