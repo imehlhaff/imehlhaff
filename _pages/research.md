@@ -10,13 +10,18 @@ author_profile: true
 <details>
   <summary>Abstract</summary>
 
-  Contemporary American politics has been largely characterized by hyper-partisanship and polarization, with partisan motivated reasoning a thematic concern. Theories of emotions in politics suggest that anxiety might interrupt partisan heuristics and encourage citizens to reason more evenhandedly—but in what domains and to what extent? We use original panel data to assess how anxiety about becoming seriously ill from Covid-19 interacted with partisan attachments to shape political judgment during the Covid-19 pandemic. The structure of our data allows us to assess large-scale implications of politically relevant emotions in ways that so far have not been possible. We find large effects on policy attitudes: Republicans who were afraid of getting sick rejected signals from co-partisan leaders by supporting mask mandates and the like. Effects on vote choice were muted in comparison, but, in a race as close as the 2020 presidential election, were potentially large enough to have been pivotal.  
+  > Contemporary American politics has been largely characterized by hyper-partisanship and polarization, with partisan motivated reasoning a thematic concern. Theories of emotions in politics suggest that anxiety might interrupt partisan heuristics and encourage citizens to reason more evenhandedly—but in what domains and to what extent? We use original panel data to assess how anxiety about becoming seriously ill from Covid-19 interacted with partisan attachments to shape political judgment during the Covid-19 pandemic. The structure of our data allows us to assess large-scale implications of politically relevant emotions in ways that so far have not been possible. We find large effects on policy attitudes: Republicans who were afraid of getting sick rejected signals from co-partisan leaders by supporting mask mandates and the like. Effects on vote choice were muted in comparison, but, in a race as close as the 2020 presidential election, were potentially large enough to have been pivotal.
+> 
 </details>
 
 Samuel Schmitt, **Isaac D. Mehlhaff**, and Emily Cottle Ommundsen. "Integrating Classroom and Community with Undergraduate Civically Engaged Research." *PS: Political Science and Politics* (forthcoming). [[Article]](https://doi.org/10.1017/S1049096523000392)
 
-> In addition to interest in undergraduate research, political science increasingly recognizes the value of civically engaged research for various educational, professional, and civic outcomes. With limited time and steep tradeoffs, instructors must find ways to cleverly combine undergraduate research experiences with the broader normative civic-education responsibilities of political science and higher education. This article presents a course design that allows instructors to leverage their classroom for both civic education and undergraduate research without the need for previously developed community partnerships that are common to most engaged research and learning. Our approach brings together undergraduate research and community engagement through course design.
->
+<details>
+  <summary>Abstract</summary>
+
+  > In addition to interest in undergraduate research, political science increasingly recognizes the value of civically engaged research for various educational, professional, and civic outcomes. With limited time and steep tradeoffs, instructors must find ways to cleverly combine undergraduate research experiences with the broader normative civic-education responsibilities of political science and higher education. This article presents a course design that allows instructors to leverage their classroom for both civic education and undergraduate research without the need for previously developed community partnerships that are common to most engaged research and learning. Our approach brings together undergraduate research and community engagement through course design.
+> 
+</details>
 
 **Isaac D. Mehlhaff**. "A Group-Based Approach To Measuring Polarization." Revise and Resubmit, *American Political Science Review*. [[Working Paper]](https://imehlhaff.net/files/CPC_note.pdf) [[Supplementary Information]](https://imehlhaff.net/files/Supplement.pdf) [[Poster]](https://imehlhaff.net/files/Poster_compressed_1.pdf) [[R Package]](http://imehlhaff.net/CPC/)
 
