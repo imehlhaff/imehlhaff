@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Isaac D. Mehlhaff"
 title_separator          : "-"
 name                     : &name "Isaac D. Mehlhaff"
-description              : &description "PhD Candidate at UNC-Chapel Hill"
+description              : &description "Postdoctoral Scholar at UChicago"
 url                      : https://imehlhaff.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "imehlhaff/imehlhaff.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Isaac D. Mehlhaff"
   avatar           : "UNC_photo.jpg"
-  bio              : "PhD Candidate<br/> Political Science<br/> UNC-Chapel Hill"
-  location         : "Chapel Hill, NC"
+  bio              : "Postdoctoral Scholar<br/> Data Science Institute<br/> UChicago"
+  location         : "Chicago, IL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ZHUcmDgAAAAJ&hl=en&oi=ao"
-  email            : "mehlhaff@live.unc.edu"
+  email            : "imehlhaff@uchicago.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
