@@ -4,11 +4,11 @@ main:
     url: /research/
 
   - title: "Software"
-    menu:
-    - text: "CPC"
-      href: http://imehlhaff.net/CPC/
-    - text: "PolarCAP"
-      href: http://imehlhaff.net/PolarCAP/
+    sublinks:
+    - title: "CPC"
+      url: /CPC/
+    - title: "PolarCAP"
+      url: /PolarCAP/
 
   - title: "Teaching"
     url: /teaching/    
