@@ -4,11 +4,7 @@ main:
     url: /research/
 
   - title: "Software"
-    sublinks:
-    - title: "CPC"
-      url: /CPC/
-    - title: "PolarCAP"
-      url: /PolarCAP/
+    url: /software/
 
   - title: "Teaching"
     url: /teaching/    
