@@ -7,12 +7,20 @@ author_profile: true
 
 <table>
 <tr>
-<td>
-<img src="http://imehlhaff.net/images/CPC Hex.png">
-</td>
-<td>
-<img src="http://imehlhaff.net/images/PolarCAP Hex.png">
-</td>
+  <td>
+    <a href="http://imehlhaff.net/CPC/"><img src="http://imehlhaff.net/images/CPC Hex.png"></a>
+  </td>
+  <td>
+    <a href="http://imehlhaff.net/PolarCAP/"><img src="http://imehlhaff.net/images/PolarCAP Hex.png"></a>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="http://imehlhaff.net/CPC/">CPC: Implementation of Cluster-Polarization Coefficient</a>
+  </td>
+  <td>
+    <a href="http://imehlhaff.net/PolarCAP/">PolarCAP: Access the Polarization in Comparative Attitudes Project</a>
+  </td>
 </tr>
 </table>
 
