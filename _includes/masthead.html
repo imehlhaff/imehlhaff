@@ -14,12 +14,14 @@
               {% assign domain = base_path %}
             {% endif %}
             {% if link.sublinks %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-              <ul>
-              {% for sublink in link.sublinks %}
-                <li><a href="{{ domain }}{{ sublink.url }}">{{ sublink.title }}</a></li>
-              {% endfor %}
-              </ul>
+              <div class="dropdown">
+                <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>  
+                <div class="dropdown-content">
+                  {% for sublink in link.sublinks %}
+                    <li><a href="{{ domain }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+                  {% endfor %}
+                </div>
+              </div>
             {% else %}
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endif %}
