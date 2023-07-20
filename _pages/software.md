@@ -25,9 +25,12 @@ author_profile: true
 </table>
 
 <style>
-table, tr, td, th{
+table, tr, td, th {
 padding: 10px;
 margin: auto;
 border: none;
+}
+img {
+  user-select: none
 }
 </style>
