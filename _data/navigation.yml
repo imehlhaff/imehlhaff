@@ -5,10 +5,10 @@ main:
 
   - title: "Software"
     menu:
-    - text: CPC
-      url: /CPC/
-    - text: PolarCAP
-      url: /PolarCAP/
+    - text: "CPC"
+      href: http://imehlhaff.net/CPC/
+    - text: "PolarCAP"
+      href: http://imehlhaff.net/PolarCAP/
 
   - title: "Teaching"
     url: /teaching/    
