@@ -16,10 +16,10 @@ author_profile: true
 </tr>
 <tr>
   <td>
-    <a href="http://imehlhaff.net/CPC/">CPC: Implementation of Cluster-Polarization Coefficient</a>
+    <center><p style="font-size:1.25em;"><a href="http://imehlhaff.net/CPC/">CPC: Implementation of Cluster-Polarization Coefficient</a></p></center>
   </td>
   <td>
-    <a href="http://imehlhaff.net/PolarCAP/">PolarCAP: Access the Polarization in Comparative Attitudes Project</a>
+    <center><p style="font-size:1.25em;"><a href="http://imehlhaff.net/PolarCAP/">PolarCAP: Access the Polarization in Comparative Attitudes Project</a></p></center>
   </td>
 </tr>
 </table>
