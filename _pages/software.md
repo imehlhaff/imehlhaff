@@ -5,14 +5,31 @@ permalink: /software/
 author_profile: true
 ---
 
-:::: {style="display: flex;"}
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
 
-::: {}
-CPC
-:::
+```c++
+int foo() {
+    int result = 4;
+    return result;
+}
+```
 
-::: {}
-PolarCAP
-:::
+</td>
+<td>
 
-::::
+```c++
+int foo() { 
+    int x = 4;
+    return x;
+}
+```
+
+</td>
+</tr>
+</table>
