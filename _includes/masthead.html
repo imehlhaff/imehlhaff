@@ -14,12 +14,12 @@
               {% assign domain = base_path %}
             {% endif %}
             {% if link.sublinks %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
               <ul>
               {% for sublink in link.sublinks %}
                 <li><a href="{{ domain }}{{ sublink.url }}">{{ sublink.title }}</a></li>
               {% endfor %}
-              </ul></li>
+              </ul>
             {% else %}
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endif %}
