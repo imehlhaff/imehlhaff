@@ -7,29 +7,11 @@ author_profile: true
 
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
 <td>
-
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
-
+CPC
 </td>
 <td>
-
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
-
+PolarCAP
 </td>
 </tr>
 </table>
