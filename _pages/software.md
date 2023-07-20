@@ -8,10 +8,10 @@ author_profile: true
 <table>
 <tr>
 <td>
-CPC
+<img src="http://imehlhaff.net/images/CPC Hex.png">
 </td>
 <td>
-PolarCAP
+<img src="http://imehlhaff.net/images/PolarCAP Hex.png">
 </td>
 </tr>
 </table>
