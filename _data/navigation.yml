@@ -3,6 +3,13 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Software"
+    menu:
+    - text: CPC
+      url: /CPC/
+    - text: PolarCAP
+      url: /PolarCAP/
+
   - title: "Teaching"
     url: /teaching/    
  
