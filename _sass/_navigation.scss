@@ -201,13 +201,6 @@
     cursor: pointer;
   }
 
-   ul { /* added for dropdown menu */
-		list-style-type: none;
-		margin: 0;
-	   padding: 0;
-      background: black;
-	}
-
   .visible-links {
     display: table;
 
@@ -254,23 +247,6 @@
                 transform: scaleX(1); /* reveal*/
       }
     }
-     
-     ul ul { /* added for dropdown menu */
-		position: absolute;
-		top: 100%;
-		display: none;
-	}
-     
-     ul ul li { /* added for dropdown menu */
-		display: block;
-	}
-
-     li:hover ul { /* added for dropdown menu */
-		display: block;
-	}
-      ul ul li a:hover { /* added for dropdown menu */
-		   background-color: #555;
-	}
   }
 
   .hidden-links {
