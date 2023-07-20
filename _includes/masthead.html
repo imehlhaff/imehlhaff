@@ -14,11 +14,11 @@
               {% assign domain = base_path %}
             {% endif %}
             {% if link.title contains 'Software' %}
-              <li class="dropdown {{ class }}">
+              <li class="dropdown">
                     <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
-                    <ul class="masthead__dropdown-menu">
+                    <ul class="dropdown-menu">
                         {% for sublink in link.sublinks %}
-                            <li><a href="{{ domain }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+                            <li><a class="dropdown-item" href="{{ domain }}{{ sublink.url }}">{{ sublink.title }}</a></li>
                         {% endfor %}
                     </ul>
                 </li>
