@@ -12,6 +12,13 @@ author_profile: true
 
 ## Peer-Reviewed Journal Articles
 
+**Isaac D. Mehlhaff**. "A Group-Based Approach To Measuring Polarization." *American Political Science Review* (forthcoming). \
+[[Pre-Print]](https://imehlhaff.net/files/CPC_note.pdf) [[Supplementary Information]](https://imehlhaff.net/files/Supplement.pdf) [[Poster]](https://imehlhaff.net/files/Poster_compressed_1.pdf) [[Software]](http://imehlhaff.net/CPC/)
+<details>
+  <summary markdown="span">Abstract</summary>
+> Despite its growing importance in social scientific topics, the quantitative measurement of polarization has lagged behind its conceptual development. Political and social polarization are group-based phenomena characterized by intergroup heterogeneity and intragroup homogeneity, but existing measures capture only one of these features or make it difficult to compare across cases or over time. To bring the concept and measurement of polarization into closer alignment, I introduce the cluster-polarization coefficient (CPC), a measure of multimodality that allows scholars to incorporate multiple variables and compare across contexts with varying numbers of parties or social groups. Simulation exercises and three applications to ideological and affective polarization demonstrate that the CPC returns more substantively sensible results than other popular measures. An open-source software package implements the measure.
+</details>
+
 **Isaac D. Mehlhaff**, Timothy J. Ryan, Marc Hetherington, and Michael MacKuen. "Where Motivated Reasoning Withers and Looms Large: Fear and Partisan Reactions to the Covid-19 Pandemic." *American Journal of Political Science* (forthcoming). \
 [[Pre-Print]](https://imehlhaff.net/files/Fear.pdf) [[Supplementary Information]](https://imehlhaff.net/files/Fear%20Supplement.pdf) [[Monkey Cage]](https://www.washingtonpost.com/politics/2020/08/18/american-attitudes-toward-covid-19-are-divided-by-party-pandemic-itself-might-undo-that/)
 <details>
@@ -27,13 +34,6 @@ Samuel Schmitt, **Isaac D. Mehlhaff**, and Emily Cottle Ommundsen. "Integrating 
 </details>
 
 ## Under Review
-
-**Isaac D. Mehlhaff**. "A Group-Based Approach To Measuring Polarization." Revise and Resubmit, *American Political Science Review*. \
-[[Working Paper]](https://imehlhaff.net/files/CPC_note.pdf) [[Supplementary Information]](https://imehlhaff.net/files/Supplement.pdf) [[Poster]](https://imehlhaff.net/files/Poster_compressed_1.pdf) [[Software]](http://imehlhaff.net/CPC/)
-<details>
-  <summary markdown="span">Abstract</summary>
-> Despite its growing importance in social scientific topics, the quantitative measurement of polarization has lagged behind its conceptual development. Political and social polarization are group-based phenomena characterized by intergroup heterogeneity and intragroup homogeneity, but existing measures capture only one of these features or make it difficult to compare across cases or over time. To bring the concept and measurement of polarization into closer alignment, I introduce the cluster-polarization coefficient (CPC), a measure of multimodality that allows scholars to incorporate multiple variables and compare across contexts with varying numbers of parties or social groups. Simulation exercises and three applications to ideological and affective polarization demonstrate that the CPC returns more substantively sensible results than other popular measures. An open-source software package implements the measure.
-</details>
 
 Marc J. Hetherington, **Isaac D. Mehlhaff**, and Caroline Marie Lancaster. "Worldview Politics in the United States and Great Britain." Under Review. (Paper available upon request.)
 <details>
