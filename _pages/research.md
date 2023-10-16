@@ -13,7 +13,7 @@ author_profile: true
 ## Peer-Reviewed Journal Articles
 
 **Isaac D. Mehlhaff**. "A Group-Based Approach To Measuring Polarization." *American Political Science Review* (forthcoming). \
-[[Pre-Print]](https://imehlhaff.net/files/CPC_note.pdf) [[Supplementary Information]](https://imehlhaff.net/files/Supplement.pdf) [[Poster]](https://imehlhaff.net/files/Poster_compressed_1.pdf) [[Software]](http://imehlhaff.net/CPC/)
+[[Article]](https://www.cambridge.org/core/journals/american-political-science-review/article/groupbased-approach-to-measuring-polarization/7979CFDC243FB1E21FE7AE3724B42EEA) [[Supplementary Information]](https://www.cambridge.org/core/journals/american-political-science-review/article/groupbased-approach-to-measuring-polarization/7979CFDC243FB1E21FE7AE3724B42EEA#supplementary-materials) [[Poster]](https://imehlhaff.net/files/Poster_compressed_1.pdf) [[Software]](http://imehlhaff.net/CPC/)
 <details>
   <summary markdown="span">Abstract</summary>
 > Despite its growing importance in social scientific topics, the quantitative measurement of polarization has lagged behind its conceptual development. Political and social polarization are group-based phenomena characterized by intergroup heterogeneity and intragroup homogeneity, but existing measures capture only one of these features or make it difficult to compare across cases or over time. To bring the concept and measurement of polarization into closer alignment, I introduce the cluster-polarization coefficient (CPC), a measure of multimodality that allows scholars to incorporate multiple variables and compare across contexts with varying numbers of parties or social groups. Simulation exercises and three applications to ideological and affective polarization demonstrate that the CPC returns more substantively sensible results than other popular measures. An open-source software package implements the measure.
@@ -34,6 +34,18 @@ Samuel Schmitt, **Isaac D. Mehlhaff**, and Emily Cottle Ommundsen. "Integrating 
 </details>
 
 ## Under Review
+
+Marc J. Hetherington, **Isaac D. Mehlhaff**, Matías Tarillo, and Ayelén Vanegas. "Partisanship and the Pandemic: How and Why Americans Followed Party Cues on COVID-19." Revise and Resubmit, *Journal of Health Politics, Policy, and Law*. (Paper available upon request). 
+<details>
+  <summary markdown="span">Abstract</summary>
+> The United States underperformed its potential in responding to the COVID-19 pandemic. Using original survey data from April 2020 to March 2022, we show that political partisanship may have contributed to this inconsistent response by distinguishing elites and citizens who took the crisis seriously from those who did not. This division was not inevitable; when the crisis began, Democrats and Republicans differed little in their viewpoints and actions. However, partisans increasingly diverged when their preferred political leaders provided them with opposing cues. We outline developments in party politics over the last half-century that contributed to partisan division on COVID-19, most centrally an anti-expertise bias among Republicans. Accordingly, Republicans’ support for mitigation measures, perception of severity of COVID-19, and support for vaccines gradually decreased after the initial outbreak. Partisan differences also showed up at the state level; Trump’s vote share in 2016 was negatively associated with mask use and positively associated with COVID-19 infections. Diverging elite cues provided fertile ground for the partisan pandemic, underscoring the importance of political accountability, even in an era of polarization.
+</details>
+
+Marc J. Hetherington, Andrew M. Engelhardt, and **Isaac D. Mehlhaff**. "More Than a Partisan Pandemic: Worldview and COVID-19 Response in the United States." Under Review. (Paper available upon request.)
+<details>
+  <summary markdown="span">Abstract</summary>
+> As the COVID-19 pandemic unfolded, public responses increasingly divided along political lines: Democrats tended to support policies and behaviors recommended by public health experts and Republicans tended to oppose them. We argue that exclusively party-based explanations for these patterns are incomplete. Instead, we call attention to people’s philosophy about life—their “worldview"— as an important force behind their pandemic responses. We posit that citizens use beliefs derived from interactions with their everyday life to inform their affinities and preferences when analogous matters enter the political realm. Using original cross-sectional and panel survey data gathered over the course of the pandemic, we theorize and empirically validate a multidimensional measure of worldview. We show that worldview is a coherent, belief-system-like entity that remained stable during the pandemic, suggesting its centrality in mass responses to uncertain and novel stimuli. We then show that even before strong party cues emerged, worldview structured Americans’ reactions to COVID-19 and constrained the positions parties could take. Worldview’s influence was both direct and indirect, channeled through its relationship with partisan preference. While partisanship is a potent force in political belief systems, much of its effect, we suggest, comes from its association with people’s general philosophy about life.
+</details>
 
 Marc J. Hetherington, **Isaac D. Mehlhaff**, and Caroline Marie Lancaster. "Worldview Politics in the United States and Great Britain." Under Review. (Paper available upon request.)
 <details>
