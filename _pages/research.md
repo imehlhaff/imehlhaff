@@ -12,6 +12,13 @@ author_profile: true
 
 ## Peer-Reviewed Journal Articles
 
+**Isaac D. Mehlhaff**, Ayelén Vanegas, Marc J. Hetherington, and Matías Tarillo. "Partisanship and the Pandemic: How and Why Americans Followed Party Cues on COVID-19." *Journal of Health Politics, Policy, and Law* (forthcoming). \
+[[Article]](https://read.dukeupress.edu/jhppl/article/doi/10.1215/03616878-11066336/383873/Partisanship-and-the-Pandemic-How-and-Why?searchresult=1) [[Supplementary Data]](https://dup.silverchair-cdn.com/dup/Content_public/Journal/jhppl/PAP/10.1215_03616878-11066336/1/jhp493_02mehlhaffonlineappendix.pdf?Expires=1703609354&Signature=KLiZqJ1oJDxIJOX4oQxipbj~QMJEf9S380AbaAuyNOEryR0GBPnuVUSbK9P7O83qQBRcrE0GhOM3vwWhkE4vEETOhAVf2eElqgTghVcl1Efe~VrfqjmwvOz-drtyNxhsqME3bpdl~BudzQz4pjpZLxIDbVDSO0zTpW1-Qq38Oc4ZTxLB4S6se6CQniHIJCj7zJky5FptIevPs1HFc5ohw9LjR5q4iiGTmBqwqS3MzZ93C0i4O37NZfZfpLPoDFVdEWUG5sJVyZ6JnU94HrJyJ7YfiD82hSb2N9agkmz~zpcSyL7OI0m57C2Lpeb27cBPht9zDbwHzitpIRG9E7ZIdw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+<details>
+  <summary markdown="span">Abstract</summary>
+> The United States underperformed its potential in responding to the COVID-19 pandemic. Using original survey data from April 2020 to March 2022, we show that political partisanship may have contributed to this inconsistent response by distinguishing elites and citizens who took the crisis seriously from those who did not. This division was not inevitable; when the crisis began, Democrats and Republicans differed little in their viewpoints and actions. However, partisans increasingly diverged when their preferred political leaders provided them with opposing cues. We outline developments in party politics over the last half-century that contributed to partisan division on COVID-19, most centrally an anti-expertise bias among Republicans. Accordingly, Republicans’ support for mitigation measures, perception of severity of COVID-19, and support for vaccines gradually decreased after the initial outbreak. Partisan differences also showed up at the state level; Trump’s vote share in 2016 was negatively associated with mask use and positively associated with COVID-19 infections. Diverging elite cues provided fertile ground for the partisan pandemic, underscoring the importance of political accountability, even in an era of polarization.
+</details>
+
 **Isaac D. Mehlhaff**. "A Group-Based Approach To Measuring Polarization." *American Political Science Review* (forthcoming). \
 [[Article]](https://www.cambridge.org/core/journals/american-political-science-review/article/groupbased-approach-to-measuring-polarization/7979CFDC243FB1E21FE7AE3724B42EEA) [[Supplementary Information]](https://www.cambridge.org/core/journals/american-political-science-review/article/groupbased-approach-to-measuring-polarization/7979CFDC243FB1E21FE7AE3724B42EEA#supplementary-materials) [[Poster]](https://imehlhaff.net/files/Poster_compressed_1.pdf) [[Software]](http://imehlhaff.net/CPC/)
 <details>
@@ -34,12 +41,6 @@ Samuel Schmitt, **Isaac D. Mehlhaff**, and Emily Cottle Ommundsen. "Integrating 
 </details>
 
 ## Under Review
-
-Marc J. Hetherington, **Isaac D. Mehlhaff**, Matías Tarillo, and Ayelén Vanegas. "Partisanship and the Pandemic: How and Why Americans Followed Party Cues on COVID-19." Revise and Resubmit, *Journal of Health Politics, Policy, and Law*. (Paper available upon request). 
-<details>
-  <summary markdown="span">Abstract</summary>
-> The United States underperformed its potential in responding to the COVID-19 pandemic. Using original survey data from April 2020 to March 2022, we show that political partisanship may have contributed to this inconsistent response by distinguishing elites and citizens who took the crisis seriously from those who did not. This division was not inevitable; when the crisis began, Democrats and Republicans differed little in their viewpoints and actions. However, partisans increasingly diverged when their preferred political leaders provided them with opposing cues. We outline developments in party politics over the last half-century that contributed to partisan division on COVID-19, most centrally an anti-expertise bias among Republicans. Accordingly, Republicans’ support for mitigation measures, perception of severity of COVID-19, and support for vaccines gradually decreased after the initial outbreak. Partisan differences also showed up at the state level; Trump’s vote share in 2016 was negatively associated with mask use and positively associated with COVID-19 infections. Diverging elite cues provided fertile ground for the partisan pandemic, underscoring the importance of political accountability, even in an era of polarization.
-</details>
 
 Marc J. Hetherington, Andrew M. Engelhardt, and **Isaac D. Mehlhaff**. "More Than a Partisan Pandemic: Worldview and COVID-19 Response in the United States." Under Review. (Paper available upon request.)
 <details>
