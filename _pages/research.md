@@ -12,7 +12,7 @@ author_profile: true
 
 ## Peer-Reviewed Journal Articles
 
-**Isaac D. Mehlhaff**, Ayelén Vanegas, Marc J. Hetherington, and Matías Tarillo. "Partisanship and the Pandemic: How and Why Americans Followed Party Cues on COVID-19." *Journal of Health Politics, Policy, and Law* (forthcoming). \
+**Isaac D. Mehlhaff**, Matías C. Tarillo, Ayelén Vanegas, and Marc J. Hetherington. "Partisanship and the Pandemic: How and Why Americans Followed Party Cues on COVID-19." *Journal of Health Politics, Policy, and Law* (forthcoming). \
 [[Article]](https://read.dukeupress.edu/jhppl/article/doi/10.1215/03616878-11066336/383873/Partisanship-and-the-Pandemic-How-and-Why?searchresult=1) [[Supplementary Data]](https://dup.silverchair-cdn.com/dup/Content_public/Journal/jhppl/PAP/10.1215_03616878-11066336/1/jhp493_02mehlhaffonlineappendix.pdf?Expires=1703609354&Signature=KLiZqJ1oJDxIJOX4oQxipbj~QMJEf9S380AbaAuyNOEryR0GBPnuVUSbK9P7O83qQBRcrE0GhOM3vwWhkE4vEETOhAVf2eElqgTghVcl1Efe~VrfqjmwvOz-drtyNxhsqME3bpdl~BudzQz4pjpZLxIDbVDSO0zTpW1-Qq38Oc4ZTxLB4S6se6CQniHIJCj7zJky5FptIevPs1HFc5ohw9LjR5q4iiGTmBqwqS3MzZ93C0i4O37NZfZfpLPoDFVdEWUG5sJVyZ6JnU94HrJyJ7YfiD82hSb2N9agkmz~zpcSyL7OI0m57C2Lpeb27cBPht9zDbwHzitpIRG9E7ZIdw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 <details>
   <summary markdown="span">Abstract</summary>
